@@ -1,4 +1,4 @@
-# ticket-ai-as# Ticket Categorization and Priority AI Assistant
+# Ticket Categorization and Priority AI Assistant
 
 A machine learning-based system for automatically classifying support tickets and assigning priority levels to improve support team efficiency.
 
