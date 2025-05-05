@@ -2,8 +2,6 @@
 
 A machine learning-based system for automatically classifying support tickets and assigning priority levels to improve support team efficiency.
 
-![Ticket AI Assistant Demo](https://i.imgur.com/placeholder.png)
-
 ## Project Overview
 
 This portfolio project demonstrates my skills in:
@@ -109,22 +107,6 @@ ticket-ai-assistant/
 2. **Category Prediction**: Use a multi-class classifier to assign the most relevant category
 3. **Priority Analysis**: Consider text content, urgent keywords, and category to determine priority
 4. **Response Generation**: Return predictions with confidence scores
-
-## Future Enhancements
-
-- Implement more advanced NLP techniques like BERT or transformers for improved accuracy
-- Add user feedback loop to continually improve model performance
-- Expand the system to include automatic response suggestions
-- Integrate with popular ticketing systems like Zendesk or Jira
-
-## About the Developer
-
-This project was created by [Your Name] as part of a portfolio demonstrating skills in machine learning and application development. I'm passionate about applying AI to solve real business problems and improve operational efficiency.
-
-Feel free to connect with me:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ## License
 
